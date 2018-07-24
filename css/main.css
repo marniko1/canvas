@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+	background-image: url('../images/grass.png');
+	width: 100%;
+	height: 100%;
+}
+canvas#main_canvas{
+	/*width: 100%;*/
+	/*height: 100%;*/
+}
